@@ -16,9 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd442710-829b-4e0e-a0f9-34d84ff20e7e" name="Default Changelist" comment="第三次提交">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd442710-829b-4e0e-a0f9-34d84ff20e7e" name="Default Changelist" comment="第四次提交" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603200055809</updated>
       <workItem from="1603200063324" duration="45000" />
-      <workItem from="1603200115888" duration="2664000" />
+      <workItem from="1603200115888" duration="2976000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1603200549123</created>
@@ -99,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603204083112</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第四次提交">
+      <created>1603204303599</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603204303599</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,13 +137,14 @@
     <MESSAGE value="第一次提交" />
     <MESSAGE value="第二次提交" />
     <MESSAGE value="第三次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第三次提交" />
+    <MESSAGE value="第四次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四次提交" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="147" y="65" width="1228" height="687" key="DiffContextDialog" timestamp="1603204219497">
+    <state x="147" y="65" width="1228" height="687" key="DiffContextDialog" timestamp="1603204531270">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="147" y="65" width="1228" height="687" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1603204219497" />
+    <state x="147" y="65" width="1228" height="687" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1603204531270" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603200105587">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -147,9 +153,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603200731667" />
-    <state x="461" y="199" key="git4idea.merge.GitPullDialog" timestamp="1603204118371">
+    <state x="461" y="199" key="git4idea.merge.GitPullDialog" timestamp="1603204337267">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="199" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1603204118371" />
+    <state x="461" y="199" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1603204337267" />
   </component>
 </project>
