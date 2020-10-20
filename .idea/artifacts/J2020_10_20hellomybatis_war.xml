@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="J2020-10-20hellomybatis:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>J2020-10-20hellomybatis</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="J2020-10-20hellomybatis-1.0.war">
+      <element id="artifact" artifact-name="J2020-10-20hellomybatis:war exploded" />
+    </root>
+  </artifact>
+</component>
